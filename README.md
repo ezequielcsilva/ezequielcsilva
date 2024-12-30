@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ezequiel
 
-I’m a passionate **.NET Fullstack Developer** with over 8 years of experience in building high-quality, scalable, and efficient software solutions. My expertise lies primarily in backend development with .NET, but I also have hands-on experience with frontend technologies such as **React** and **Angular**. I'm always excited about learning new technologies and improving my skills to stay up to date with industry trends.
+I’m a passionate **.NET Fullstack Developer** with over 10 years of experience in building high-quality, scalable, and efficient software solutions. My expertise lies primarily in backend development with .NET, but I also have hands-on experience with frontend technologies such as **React** and **Angular**. I'm always excited about learning new technologies and improving my skills to stay up to date with industry trends.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** C#, JavaScript, TypeScript, SQL
